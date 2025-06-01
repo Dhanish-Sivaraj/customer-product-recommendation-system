@@ -38,7 +38,15 @@ streamlit run streamlit.py
 
 ## 🖼️ App Screenshots
 
-_Add some screenshots here if you'd like to showcase your UI._
+![image](https://github.com/user-attachments/assets/e82f1410-2688-4a42-a3c0-e34175a960a8)
+![image](https://github.com/user-attachments/assets/df5088f1-3469-484c-8fe4-d0cadb6ddd02)
+![image](https://github.com/user-attachments/assets/d54fc01c-a36b-4a4c-890b-b2e0a038283b)
+![image](https://github.com/user-attachments/assets/0a19f5e0-e3f6-475d-b725-b1025400bb26)
+![image](https://github.com/user-attachments/assets/cb19e0cd-9721-4687-83a0-4c1ed97f1cab)
+![image](https://github.com/user-attachments/assets/811528a8-d219-4be6-bf0c-9e66b8821e51)
+![image](https://github.com/user-attachments/assets/98e73f2f-1dd9-44e5-bdef-a2ed9c68ea3e)
+![image](https://github.com/user-attachments/assets/c27ab94a-dda4-40fd-923b-778e7082b3e7)
+
 
 ## ✅ Requirements
 
@@ -48,10 +56,7 @@ _Add some screenshots here if you'd like to showcase your UI._
 - plotly
 - openpyxl
 
-## 📬 Contact
-
-For any queries, feel free to reach out via [LinkedIn](https://www.linkedin.com) or open an issue here.
-
----
+## 👨‍💻 Author
+Dhanish S
 
 © 2025 XYZ Bank (Demo Project)
